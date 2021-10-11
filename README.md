@@ -1,3 +1,3 @@
 # mahlab
 
-study python in mash laboratory
+Study python in mash laboratory.
