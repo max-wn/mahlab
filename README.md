@@ -1,11 +1,11 @@
-# mahlab
+## mahlab
 
-Status of Last Deployment:<br>
-<img src="https://github.com/max-wn/mahlab/workflows/CodeQl/badge.svg?branch=master"><br>
+### status
+<img src="https://github.com/max-wn/mahlab/workflows/CodeQL/badge.svg?branch=master"><br>
 
-## description
+### description
 Study python in mash laboratory.
 
-## branches
+### branches
 **MASTER** - _Hopefully stable branch._\
 **DEV** - _Development Branch (latest changes)_
